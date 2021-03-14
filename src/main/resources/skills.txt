@@ -1,0 +1,11 @@
+1 gradle
+3 windows
+4 linux
+5 java
+6 sql
+7 docker
+8 c++
+9 mysql
+10 R
+11 git
+12 unix
