@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 public class JavaIOSkillRepositoryImpl implements com.vaneks.crud.repository.SkillRepository {
 
-    private final String file = getClass().getClassLoader().getResource("/skills.txt").getFile();
+    private final String file = "skills.txt";
     public List<Skill> getAll() {
         return getAllInternal();
     }
